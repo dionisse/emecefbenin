@@ -1,7 +1,3 @@
-Voici une version améliorée et corrigée de votre fichier README, prenant en compte les routes définies et les informations spécifiques sur votre application. 
-
----
-
 # **StandardizedInvoice**
 
 ## **Description**
